@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topo">50dp</dimen>
+    <dimen name="topoSenha">20dp</dimen>
+    <dimen name="marginBotton">5dp</dimen>
+    <dimen name="marginListView">10dp</dimen>
+</resources>
